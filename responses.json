@@ -1,0 +1,15 @@
+{"commands": [
+  {"tag": "greeting",
+    "patterns": ["hey", "hello", "how far", "what's up", "Maverick"],
+    "response": ["hello", "hey", "hi"]
+  },
+  {"tag": "goodbye",
+    "patterns": ["catch you later", "bye bye", "goodbye", "got to go", "bye", "have a nice day"],
+    "responses": ["alright, you too", "alright, i'll talk to you soon", "alright then, goodbye"]
+
+  },
+  {"tag": "age",
+    "response": [""]
+
+  }
+]}
